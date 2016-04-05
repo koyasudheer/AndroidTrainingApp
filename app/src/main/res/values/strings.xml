@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AndroidTrainingApp</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_listview">Listview</string>
+    <string name="title_activity_recyclerview">Recyclerview</string>
+    <string name="title_activity_recycle_view">RecycleView</string>
 </resources>
